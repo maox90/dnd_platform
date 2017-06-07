@@ -1,0 +1,10 @@
+package com.jim.entities;
+
+/**
+ * Created by maox on 6/6/2017.
+ */
+public class Ability {
+
+    private String name;
+
+}
